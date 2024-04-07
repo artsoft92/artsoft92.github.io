@@ -9,10 +9,11 @@
    2. 측정장비 설정
    3. 측정 시나리오에 따른 자동측정
    4. 측정 결과 보고서 생성기 (.xlsx, .docx)
+ 
+<img src="screenshot_tms1.png" alt="drawing" style="width:500px;"/><em>TMS Screen Shot</em>
 
-![TMS](screenshot_tms1.png)
 
-2. TIS-DDS : Python Flask, MariaDB, React
+1. TIS-DDS : Python Flask, MariaDB, React
    1. 시험데이터 저장 DB
    2. 사내 시험 프로젝트 서버와 연결 및 조회
 
